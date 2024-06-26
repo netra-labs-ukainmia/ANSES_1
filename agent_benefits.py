@@ -1,3 +1,6 @@
+!pip install openai
+!pip install requests
+
 import os
 from openai import OpenAI
 import requests
